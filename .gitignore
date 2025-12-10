@@ -201,3 +201,7 @@ cython_debug/
 *.nsys-rep
 *.nsys-rep.json
 *.nsys-rep.json.gz
+
+uv.lock
+*.csv
+*.png
